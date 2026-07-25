@@ -1,1 +1,1 @@
-netlify/functions/notify-outage.js
+// netlify/functions/notify-outage.js
